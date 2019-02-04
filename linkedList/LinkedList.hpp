@@ -34,7 +34,7 @@ int LinkedList<T>::size() const
 	while(temp != nullptr)
 	{
 		size++;
-		temp = temp->m_next
+		temp = temp->m_next;
 	}
 
 	return(size);
@@ -123,7 +123,7 @@ bool LinkedList<T>::removeBack()
 		lastNode = lastNode->m_next;
 	}
 
-	delete end;
+	delete lastNode;
 	isRemoved = true;
 	return(isRemoved);
 }	
