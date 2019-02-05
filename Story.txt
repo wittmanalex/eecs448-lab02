@@ -1,2 +1,2 @@
-Git is very confusing sometimes.
+Git is very confusing a lot of the time.
 I have to redo this first lab because I accidentally deleted the directory.
