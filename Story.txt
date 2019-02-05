@@ -1,0 +1,2 @@
+Git is very confusing, most of the time.
+I accidentally deleted the directory for the first lab session, so I am redoing the first instructions.
