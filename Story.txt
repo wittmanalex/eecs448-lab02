@@ -1,1 +1,2 @@
 Git is very confusing sometimes.
+I have to redo this first lab because I accidentally deleted the directory.
